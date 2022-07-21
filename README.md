@@ -1,6 +1,14 @@
 ## NASA_Project_Automation
+
+<div align="center">
+</div>
+  <div align="center">
+  <img src="http://www.nasa.gov/sites/default/files/thumbnails/image/web_first_images_release.png"">
+</div>
+                                                                                                   
 ## Hello! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="30" /> My name is [Kristina](https://www.linkedin.com/in/kristina-tablev/),  I`m QA Automation Engineer 💻
-## I developed this project to demonstrate some skills I have. Here is list of tools I used:
+
+## I developed this project to demonstrate some skills I have and here is list of tools I used:
 
 
 Python <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
