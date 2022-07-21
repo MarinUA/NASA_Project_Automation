@@ -22,7 +22,7 @@ Allure <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" widt
 Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png?20200511151950" width="50" height="50" />  
 &nbsp;
 
-📩 If you have any questions, fell free to contact <a href="mailto:kristina02020@gmail.com">me</a>**  
+📩 If you have any questions, feel free to contact <a href="mailto:kristina02020@gmail.com">me</a>**  
 
 <!---
 svetlana-lagodina/svetlana-lagodina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
