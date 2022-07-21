@@ -1,0 +1,75 @@
+{
+	"id": "83c5e991-0c93-42ab-8b95-7016735d9cf6",
+	"name": "CA_Mark_Faker",
+	"values": [
+		{
+			"key": "zipCode",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "addressLine2",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "subdivision",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "firstName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "lastName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "company",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "addressLine1",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "city",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "phoneNumber",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "country",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-07-21T01:19:48.467Z",
+	"_postman_exported_using": "Postman/9.24.2"
+}
