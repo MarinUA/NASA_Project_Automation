@@ -1,0 +1,302 @@
+1658779995593	geckodriver	INFO	Listening on 127.0.0.1:61049
+1658779995774	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "61050" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofile0aDqNd"
+*** You are running in headless mode.
+1658779996751	Marionette	INFO	Marionette enabled
+1658779996789	Marionette	INFO	Listening on port 61061
+WebDriver BiDi listening on ws://localhost:61050
+Read port: 61061
+Read port: 61061
+1658779998089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofile0aDqNd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61050/devtools/browser/48667297-4685-4c1d-927a-e1aec7a4463c
+1658779999435	geckodriver	INFO	Listening on 127.0.0.1:61094
+1658779999941	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61095" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileoyHpsB"
+1658780000631	Marionette	INFO	Marionette enabled
+1658780000695	Marionette	INFO	Listening on port 61116
+WebDriver BiDi listening on ws://localhost:61095
+Read port: 61116
+1658780001532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileoyHpsB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61095/devtools/browser/50f21821-33d9-4f89-a4f5-52a260ff8bba
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ixCk4/yk/l/en_US/cTwTZa-Y1Jh.js?_nc_x=Ij3Wp8lg5Kz, line 810: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ixCk4/yk/l/en_US/cTwTZa-Y1Jh.js?_nc_x=Ij3Wp8lg5Kz, line 1160: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ixCk4/yk/l/en_US/cTwTZa-Y1Jh.js?_nc_x=Ij3Wp8lg5Kz, line 1160: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ixCk4/yk/l/en_US/cTwTZa-Y1Jh.js?_nc_x=Ij3Wp8lg5Kz, line 1160: unreachable code after return statement
+1658780281034	geckodriver	INFO	Listening on 127.0.0.1:61832
+1658780281567	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "61833" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofilewpjmqP"
+*** You are running in headless mode.
+1658780282053	Marionette	INFO	Marionette enabled
+1658780282110	Marionette	INFO	Listening on port 61842
+WebDriver BiDi listening on ws://localhost:61833
+Read port: 61842
+1658780282504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofilewpjmqP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61833/devtools/browser/bc0e6a3d-0efc-42c8-b92f-a436d6e4ea94
+1658780283670	geckodriver	INFO	Listening on 127.0.0.1:61861
+1658780284185	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61862" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileEhSJ26"
+1658780284859	Marionette	INFO	Marionette enabled
+1658780284930	Marionette	INFO	Listening on port 61892
+WebDriver BiDi listening on ws://localhost:61862
+Read port: 61892
+1658780285688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileEhSJ26/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61862/devtools/browser/29d268ee-7f5f-4f23-a6c3-ac35b2694b1b
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+JavaScript error: https://twitter.com/nasa, line 131: ChunkLoadError: Loading chunk shared~bundle.Conversation failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~bundle.Conversation.18afef78.js)
+JavaScript error: https://twitter.com/nasa, line 131: ChunkLoadError: Loading chunk shared~bundle.Conversation failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~bundle.Conversation.18afef78.js)
+JavaScript error: https://twitter.com/nasa, line 131: ChunkLoadError: Loading chunk shared~bundle.Conversation failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~bundle.Conversation.18afef78.js)
+JavaScript error: https://twitter.com/nasa, line 131: ChunkLoadError: Loading chunk shared~bundle.Conversation failed.
+(error: https://abs.twimg.com/responsive-web/client-web/shared~bundle.Conversation.18afef78.js)
+JavaScript error: https://twitter.com/nasa, line 131: ChunkLoadError: Loading chunk bundle.NetworkInstrument failed.
+(error: https://abs.twimg.com/responsive-web/client-web/bundle.NetworkInstrument.e8b6ae98.js)
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ixCk4/yk/l/en_US/cTwTZa-Y1Jh.js?_nc_x=Ij3Wp8lg5Kz, line 810: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ixCk4/yk/l/en_US/cTwTZa-Y1Jh.js?_nc_x=Ij3Wp8lg5Kz, line 1160: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ixCk4/yk/l/en_US/cTwTZa-Y1Jh.js?_nc_x=Ij3Wp8lg5Kz, line 1160: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3ixCk4/yk/l/en_US/cTwTZa-Y1Jh.js?_nc_x=Ij3Wp8lg5Kz, line 1160: unreachable code after return statement
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iqcA4/yK/l/en_US/QOt1oiTxQBK.js?_nc_x=Ij3Wp8lg5Kz, line 40: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1658780312325	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[2022-07-25T20:18:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-25T20:18:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-25T20:18:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-07-25T20:18:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://sdk.privacy-center.org/sdk.bd135feff3ec16e43c7975b1b28327ff25d2f8f1.js, line 2: ChunkLoadError: Loading chunk ui-gdpr-en failed.
+(error: https://sdk.privacy-center.org/ui-gdpr-en.bd135feff3ec16e43c7975b1b28327ff25d2f8f1.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+1658780353667	Marionette	INFO	Stopped listening on port 61892
+1658780676313	geckodriver	INFO	Listening on 127.0.0.1:63061
+1658780676831	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "63062" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofiles2nFDz"
+*** You are running in headless mode.
+1658780677382	Marionette	INFO	Marionette enabled
+1658780677445	Marionette	INFO	Listening on port 63072
+WebDriver BiDi listening on ws://localhost:63062
+Read port: 63072
+1658780677842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofiles2nFDz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63062/devtools/browser/faefc9dc-6373-4c1f-a8ad-049982c471b8
+1658780679187	geckodriver	INFO	Listening on 127.0.0.1:63100
+1658780679700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63101" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileABu0L2"
+1658780680956	Marionette	INFO	Marionette enabled
+1658780681029	Marionette	INFO	Listening on port 63126
+WebDriver BiDi listening on ws://localhost:63101
+Read port: 63126
+Read port: 63126
+1658780682753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileABu0L2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63101/devtools/browser/3c687611-ad37-4f01-b74f-cf587a4bb2db
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+1658780695457	Marionette	INFO	Stopped listening on port 63126
+1658780743645	geckodriver	INFO	Listening on 127.0.0.1:63347
+1658780744164	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "63348" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileRB3Q3I"
+*** You are running in headless mode.
+1658780744668	Marionette	INFO	Marionette enabled
+1658780744732	Marionette	INFO	Listening on port 63358
+WebDriver BiDi listening on ws://localhost:63348
+Read port: 63358
+1658780745129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileRB3Q3I/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63348/devtools/browser/3ec8ae11-5485-4fb9-af8c-55f504789b31
+1658780746430	geckodriver	INFO	Listening on 127.0.0.1:63381
+1658780746947	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63382" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofilekdtjlR"
+1658780747409	Marionette	INFO	Marionette enabled
+1658780747486	Marionette	INFO	Listening on port 63406
+WebDriver BiDi listening on ws://localhost:63382
+Read port: 63406
+Read port: 63406
+1658780749418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofilekdtjlR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63382/devtools/browser/793d96fb-cc9b-4735-940e-a078cb81b70d
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+1658780765560	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658780766321	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658780930536	geckodriver	INFO	Listening on 127.0.0.1:63890
+1658780931054	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "63891" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofilevCqYbm"
+*** You are running in headless mode.
+1658780931595	Marionette	INFO	Marionette enabled
+1658780931671	Marionette	INFO	Listening on port 63900
+WebDriver BiDi listening on ws://localhost:63891
+Read port: 63900
+1658780932209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofilevCqYbm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63891/devtools/browser/bc7f0c35-9cb1-44c3-9e12-2e8c3c765f3a
+1658780933445	geckodriver	INFO	Listening on 127.0.0.1:63923
+1658780933958	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63924" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileCRvxdr"
+1658780934628	Marionette	INFO	Marionette enabled
+1658780934688	Marionette	INFO	Listening on port 63949
+WebDriver BiDi listening on ws://localhost:63924
+Read port: 63949
+Read port: 63949
+1658780936085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileCRvxdr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63924/devtools/browser/0a209c4e-be32-4823-8ef6-28dd10b4927c
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+1658780950146	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658780950927	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658780951694	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1658780951970	Marionette	INFO	Stopped listening on port 63949
+1658781117567	geckodriver	INFO	Listening on 127.0.0.1:64435
+1658781118088	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "64436" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileCiHJfC"
+*** You are running in headless mode.
+1658781118603	Marionette	INFO	Marionette enabled
+1658781118662	Marionette	INFO	Listening on port 64445
+WebDriver BiDi listening on ws://localhost:64436
+Read port: 64445
+1658781119048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileCiHJfC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64436/devtools/browser/c1b567ba-4230-49cc-b342-2b4945d24593
+1658781120296	geckodriver	INFO	Listening on 127.0.0.1:64474
+1658781120818	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64475" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofilesXE2Yq"
+1658781121406	Marionette	INFO	Marionette enabled
+1658781121450	Marionette	INFO	Listening on port 64495
+WebDriver BiDi listening on ws://localhost:64475
+Read port: 64495
+1658781122148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofilesXE2Yq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64475/devtools/browser/ef1f27af-2349-491c-adae-0824af5248e5
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+1658781138391	Marionette	INFO	Stopped listening on port 64495
+1658781222419	geckodriver	INFO	Listening on 127.0.0.1:64812
+1658781222929	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "64813" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofile65TY6D"
+*** You are running in headless mode.
+1658781223466	Marionette	INFO	Marionette enabled
+1658781223531	Marionette	INFO	Listening on port 64822
+WebDriver BiDi listening on ws://localhost:64813
+Read port: 64822
+1658781223936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofile65TY6D/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64813/devtools/browser/ae354146-ad01-475f-9e08-05d0af8c6966
+1658781225299	geckodriver	INFO	Listening on 127.0.0.1:64850
+1658781225819	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64851" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofilezo6vYV"
+1658781226583	Marionette	INFO	Marionette enabled
+1658781226673	Marionette	INFO	Listening on port 64873
+WebDriver BiDi listening on ws://localhost:64851
+Read port: 64873
+Read port: 64873
+1658781228163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofilezo6vYV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64851/devtools/browser/61662dc5-d2d2-4181-9d3d-974411d0d56c
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.nasa.gov"
+1658781240713	Marionette	INFO	Stopped listening on port 64873
+1658781275883	geckodriver	INFO	Listening on 127.0.0.1:65065
+1658781276403	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "65066" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofile4yrALV"
+*** You are running in headless mode.
+1658781276942	Marionette	INFO	Marionette enabled
+1658781276971	Marionette	INFO	Listening on port 65075
+WebDriver BiDi listening on ws://localhost:65066
+Read port: 65075
+1658781277655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofile4yrALV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65066/devtools/browser/51ff62b2-7bbe-4294-a185-cd7cfbc9b9e4
+1658781279083	geckodriver	INFO	Listening on 127.0.0.1:65105
+1658781279598	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65106" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileae087H"
+1658781280315	Marionette	INFO	Marionette enabled
+1658781280368	Marionette	INFO	Listening on port 65126
+WebDriver BiDi listening on ws://localhost:65106
+Read port: 65126
+1658781281327	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileae087H/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65106/devtools/browser/d99b8c94-2c97-475e-a31a-b34c06d209dc
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.nasa.gov"
+1658781291202	Marionette	INFO	Stopped listening on port 65126
+1658781730211	geckodriver	INFO	Listening on 127.0.0.1:49805
+1658781730748	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "49806" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileRJfA8S"
+*** You are running in headless mode.
+1658781731321	Marionette	INFO	Marionette enabled
+1658781731342	Marionette	INFO	Listening on port 49816
+WebDriver BiDi listening on ws://localhost:49806
+Read port: 49816
+1658781732066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileRJfA8S/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49806/devtools/browser/62fc9ce3-cf0d-43e7-af9b-12108070da1d
+1658782109096	geckodriver	INFO	Listening on 127.0.0.1:50689
+1658782109612	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "50690" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileKyHoun"
+*** You are running in headless mode.
+1658782110234	Marionette	INFO	Marionette enabled
+1658782110300	Marionette	INFO	Listening on port 50700
+WebDriver BiDi listening on ws://localhost:50690
+Read port: 50700
+1658782110706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileKyHoun/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50690/devtools/browser/12c4df36-8b7e-47df-8377-2e12ce5716a1
+1658782111976	geckodriver	INFO	Listening on 127.0.0.1:50715
+1658782112495	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50716" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileFfARId"
+1658782113259	Marionette	INFO	Marionette enabled
+1658782113317	Marionette	INFO	Listening on port 50745
+WebDriver BiDi listening on ws://localhost:50716
+Read port: 50745
+Read port: 50745
+1658782114808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileFfARId/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50716/devtools/browser/95ef51f2-edf0-472d-b72e-358e130ecebf
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.nasa.gov"
+1658782124860	Marionette	INFO	Stopped listening on port 50745
+1658782613933	geckodriver	INFO	Listening on 127.0.0.1:51850
+1658782614461	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "--remote-debugging-port" "51851" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileA3VeTc"
+*** You are running in headless mode.
+1658782614998	Marionette	INFO	Marionette enabled
+1658782615027	Marionette	INFO	Listening on port 51860
+WebDriver BiDi listening on ws://localhost:51851
+Read port: 51860
+1658782615742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileA3VeTc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51851/devtools/browser/fc86bb75-9ea1-4de2-8d96-0b04ce1b00c5
+1658782616903	geckodriver	INFO	Listening on 127.0.0.1:51876
+1658782617422	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51877" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileWam76i"
+1658782617949	Marionette	INFO	Marionette enabled
+1658782618008	Marionette	INFO	Listening on port 51903
+WebDriver BiDi listening on ws://localhost:51877
+Read port: 51903
+Read port: 51903
+1658782619351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/qj/j6vqn5393q7gj8ygw25sz31w0000gn/T/rust_mozprofileWam76i/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51877/devtools/browser/0c0d6b78-3b79-4a1e-b97c-fbb34daa699e
+JavaScript warning: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 14256: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.nasa.gov"
