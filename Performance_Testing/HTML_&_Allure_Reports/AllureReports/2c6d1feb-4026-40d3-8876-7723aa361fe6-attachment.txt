@@ -1,7 +1,0 @@
-Current Title is OK: NASA
-Current URL is OK: https://www.nasa.gov/
-Page title is correct
-Current Title is OK: NASA
-Current URL of Homepage is OK: https://www.nasa.gov/
-Logo leads to the website's Homepage
-TC-006 is PASSED
