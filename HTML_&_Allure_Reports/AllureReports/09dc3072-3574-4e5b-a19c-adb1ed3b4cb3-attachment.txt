@@ -1,0 +1,6 @@
+Current Title is OK: NASA
+Current URL is OK: https://www.nasa.gov/
+NASA Virtual Guest page is opened
+Current Signup Form Page is correct
+Join to NASA's Virtual Guest List was Done!
+TC-004 is PASSED

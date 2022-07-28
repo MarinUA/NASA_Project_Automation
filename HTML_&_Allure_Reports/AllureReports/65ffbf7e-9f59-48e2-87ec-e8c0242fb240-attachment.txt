@@ -1,0 +1,7 @@
+Current Title is OK: NASA
+Current URL is OK: https://www.nasa.gov/
+NASA Virtual Guest page is opened
+Current Signup Form Page is correct
+Sign Up Form is filled by Fake data
+User is unable to make a registration  for NASA's upcoming events  with invalid email
+TC-005 is PASSED
